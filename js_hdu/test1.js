@@ -1,1 +1,1 @@
-console.log($("select[name='pjkc']").val())
+alert($("select[name='pjkc']").val())
