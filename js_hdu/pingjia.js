@@ -1,4 +1,5 @@
 //@blog:http://blog.csdn.net/lxfhahaha/article/details/72638659
+//教师评价
 var interval = setInterval( function(){
 var script = document.createElement("script")
  script.type = "text/javascript";
